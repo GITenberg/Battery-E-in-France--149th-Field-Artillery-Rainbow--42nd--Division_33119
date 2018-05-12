@@ -1,0 +1,29 @@
+_repo: Battery-E-in-France--149th-Field-Artillery-Rainbow--42nd--Division_33119
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33119-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kilner, Frederic Richard
+    alias: Kilner, Frederic R.
+    birthdate: 1892
+    gutenberg_agent_id: '36214'
+    url: http://www.gutenberg.org/2009/agents/36214
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Field Artillery, 149th -- Regimental histories'
+- !lcc 'D501'
+- !lcsh 'Artillery, Field and mountain -- United States'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- United States'
+title: 'Battery E in France: 149th Field Artillery, Rainbow (42nd) Division'
+url: http://www.gutenberg.org/ebooks/33119
